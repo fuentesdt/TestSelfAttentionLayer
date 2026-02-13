@@ -1,0 +1,30 @@
+
+>> testattention
+Warning: Network issues detected.
+
+Caused by:
+    Layer 'output': Empty Classes property. Classes will be set to categorical(1:N), where N is the number of classes.
+
+
+assembledNet =
+
+  SeriesNetwork with properties:
+
+         Layers: [6×1 nnet.cnn.layer.Layer]
+     InputNames: {'input'}
+    OutputNames: {'output'}
+
+
+ans =
+
+  single
+
+  138.3259
+
+
+ans =
+
+  single
+
+    0.0067
+
