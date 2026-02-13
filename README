@@ -28,120 +28,120 @@ ans =
 
     0.0067
 
->> ver
+>> ver -support
 ----------------------------------------------------------------------------------------------
 MATLAB Version: 25.1.0.2943329 (R2025a)
 MATLAB License Number: 41042756
 Operating System: Linux 5.15.0-112-generic #122-Ubuntu SMP Thu May 23 07:48:21 UTC 2024 x86_64
 Java Version: Java is not enabled
 ----------------------------------------------------------------------------------------------
-MATLAB                                                Version 25.1        (R2025a)
-Simulink                                              Version 25.1        (R2025a)
-5G Toolbox                                            Version 25.1        (R2025a)
-AUTOSAR Blockset                                      Version 25.1        (R2025a)
-Aerospace Blockset                                    Version 25.1        (R2025a)
-Aerospace Toolbox                                     Version 25.1        (R2025a)
-Antenna Toolbox                                       Version 25.1        (R2025a)
-Audio Toolbox                                         Version 25.1        (R2025a)
-Automated Driving Toolbox                             Version 25.1        (R2025a)
-Bioinformatics Toolbox                                Version 25.1        (R2025a)
-Bluetooth Toolbox                                     Version 25.1        (R2025a)
-C2000 Microcontroller Blockset                        Version 25.1        (R2025a)
-Communications Toolbox                                Version 25.1        (R2025a)
-Computer Vision Toolbox                               Version 25.1        (R2025a)
-Control System Toolbox                                Version 25.1        (R2025a)
-Curve Fitting Toolbox                                 Version 25.1        (R2025a)
-DDS Blockset                                          Version 25.1        (R2025a)
-DSP HDL Toolbox                                       Version 25.1        (R2025a)
-DSP System Toolbox                                    Version 25.1        (R2025a)
-Database Toolbox                                      Version 25.1        (R2025a)
-Datafeed Toolbox                                      Version 25.1        (R2025a)
-Deep Learning HDL Toolbox                             Version 25.1        (R2025a)
-Deep Learning Toolbox                                 Version 25.1        (R2025a)
-Econometrics Toolbox                                  Version 25.1        (R2025a)
-Embedded Coder                                        Version 25.1        (R2025a)
-Financial Instruments Toolbox                         Version 25.1        (R2025a)
-Financial Toolbox                                     Version 25.1        (R2025a)
-Fixed-Point Designer                                  Version 25.1        (R2025a)
-Fuzzy Logic Toolbox                                   Version 25.1        (R2025a)
-GPU Coder                                             Version 25.1        (R2025a)
-Global Optimization Toolbox                           Version 25.1        (R2025a)
-HDL Coder                                             Version 25.1        (R2025a)
-HDL Verifier                                          Version 25.1        (R2025a)
-Image Acquisition Toolbox                             Version 25.1        (R2025a)
-Image Processing Toolbox                              Version 25.1        (R2025a)
-Industrial Communication Toolbox                      Version 25.1        (R2025a)
-Instrument Control Toolbox                            Version 25.1        (R2025a)
-LTE Toolbox                                           Version 25.1        (R2025a)
-Lidar Toolbox                                         Version 25.1        (R2025a)
-MATLAB Coder                                          Version 25.1        (R2025a)
-MATLAB Compiler                                       Version 25.1        (R2025a)
-MATLAB Compiler SDK                                   Version 25.1        (R2025a)
-MATLAB Report Generator                               Version 25.1        (R2025a)
-MATLAB Test                                           Version 25.1        (R2025a)
-Mapping Toolbox                                       Version 25.1        (R2025a)
-Medical Imaging Toolbox                               Version 25.1        (R2025a)
-Mixed-Signal Blockset                                 Version 25.1        (R2025a)
-Model Predictive Control Toolbox                      Version 25.1        (R2025a)
-Model-Based Calibration Toolbox                       Version 25.1        (R2025a)
-Motor Control Blockset                                Version 25.1        (R2025a)
-Navigation Toolbox                                    Version 25.1        (R2025a)
-Optimization Toolbox                                  Version 25.1        (R2025a)
-Parallel Computing Toolbox                            Version 25.1        (R2025a)
-Partial Differential Equation Toolbox                 Version 25.1        (R2025a)
-Phased Array System Toolbox                           Version 25.1        (R2025a)
-Powertrain Blockset                                   Version 25.1        (R2025a)
-Predictive Maintenance Toolbox                        Version 25.1        (R2025a)
-RF Blockset                                           Version 25.1        (R2025a)
-RF PCB Toolbox                                        Version 25.1        (R2025a)
-RF Toolbox                                            Version 25.1        (R2025a)
-ROS Toolbox                                           Version 25.1        (R2025a)
-Radar Toolbox                                         Version 25.1        (R2025a)
-Reinforcement Learning Toolbox                        Version 25.1        (R2025a)
-Requirements Toolbox                                  Version 25.1        (R2025a)
-Risk Management Toolbox                               Version 25.1        (R2025a)
-Robotics System Toolbox                               Version 25.1        (R2025a)
-Robust Control Toolbox                                Version 25.1        (R2025a)
-Satellite Communications Toolbox                      Version 25.1        (R2025a)
-Sensor Fusion and Tracking Toolbox                    Version 25.1        (R2025a)
-SerDes Toolbox                                        Version 25.1        (R2025a)
-Signal Integrity Toolbox                              Version 25.1        (R2025a)
-Signal Processing Toolbox                             Version 25.1        (R2025a)
-SimBiology                                            Version 25.1        (R2025a)
-SimEvents                                             Version 25.1        (R2025a)
-Simscape                                              Version 25.1        (R2025a)
-Simscape Battery                                      Version 25.1        (R2025a)
-Simscape Driveline                                    Version 25.1        (R2025a)
-Simscape Electrical                                   Version 25.1        (R2025a)
-Simscape Fluids                                       Version 25.1        (R2025a)
-Simscape Multibody                                    Version 25.1        (R2025a)
-Simulink 3D Animation                                 Version 25.1        (R2025a)
-Simulink Check                                        Version 25.1        (R2025a)
-Simulink Code Inspector                               Version 25.1        (R2025a)
-Simulink Coder                                        Version 25.1        (R2025a)
-Simulink Compiler                                     Version 25.1        (R2025a)
-Simulink Control Design                               Version 25.1        (R2025a)
-Simulink Coverage                                     Version 25.1        (R2025a)
-Simulink Design Optimization                          Version 25.1        (R2025a)
-Simulink Design Verifier                              Version 25.1        (R2025a)
-Simulink Desktop Real-Time                            Version 25.1        (R2025a)
-Simulink Fault Analyzer                               Version 25.1        (R2025a)
-Simulink PLC Coder                                    Version 25.1        (R2025a)
-Simulink Real-Time                                    Version 25.1        (R2025a)
-Simulink Report Generator                             Version 25.1        (R2025a)
-Simulink Test                                         Version 25.1        (R2025a)
-SoC Blockset                                          Version 25.1        (R2025a)
-Stateflow                                             Version 25.1        (R2025a)
-Statistics and Machine Learning Toolbox               Version 25.1        (R2025a)
-Symbolic Math Toolbox                                 Version 25.1        (R2025a)
-System Composer                                       Version 25.1        (R2025a)
-System Identification Toolbox                         Version 25.1        (R2025a)
-Text Analytics Toolbox                                Version 25.1        (R2025a)
-UAV Toolbox                                           Version 25.1        (R2025a)
-Vehicle Dynamics Blockset                             Version 25.1        (R2025a)
-Vehicle Network Toolbox                               Version 25.1        (R2025a)
-Vision HDL Toolbox                                    Version 25.1        (R2025a)
-WLAN Toolbox                                          Version 25.1        (R2025a)
-Wavelet Toolbox                                       Version 25.1        (R2025a)
-Wireless HDL Toolbox                                  Version 25.1        (R2025a)
-Wireless Testbench                                    Version 25.1        (R2025a)
+MATLAB                                                Version 25.1        (R2025a)      License 41042756
+Simulink                                              Version 25.1        (R2025a)      License 41042756
+5G Toolbox                                            Version 25.1        (R2025a)      License 41042756
+AUTOSAR Blockset                                      Version 25.1        (R2025a)      License 41042756
+Aerospace Blockset                                    Version 25.1        (R2025a)      License 41042756
+Aerospace Toolbox                                     Version 25.1        (R2025a)      License 41042756
+Antenna Toolbox                                       Version 25.1        (R2025a)      License 41042756
+Audio Toolbox                                         Version 25.1        (R2025a)      License 41042756
+Automated Driving Toolbox                             Version 25.1        (R2025a)      License 41042756
+Bioinformatics Toolbox                                Version 25.1        (R2025a)      License 41042756
+Bluetooth Toolbox                                     Version 25.1        (R2025a)      License 41042756
+C2000 Microcontroller Blockset                        Version 25.1        (R2025a)      License 41042756
+Communications Toolbox                                Version 25.1        (R2025a)      License 41042756
+Computer Vision Toolbox                               Version 25.1        (R2025a)      License 41042756
+Control System Toolbox                                Version 25.1        (R2025a)      License 41042756
+Curve Fitting Toolbox                                 Version 25.1        (R2025a)      License 41042756
+DDS Blockset                                          Version 25.1        (R2025a)      License 41042756
+DSP HDL Toolbox                                       Version 25.1        (R2025a)      License 41042756
+DSP System Toolbox                                    Version 25.1        (R2025a)      License 41042756
+Database Toolbox                                      Version 25.1        (R2025a)      License 41042756
+Datafeed Toolbox                                      Version 25.1        (R2025a)      License 41042756
+Deep Learning HDL Toolbox                             Version 25.1        (R2025a)      License 41042756
+Deep Learning Toolbox                                 Version 25.1        (R2025a)      License 41042756
+Econometrics Toolbox                                  Version 25.1        (R2025a)      License 41042756
+Embedded Coder                                        Version 25.1        (R2025a)      License 41042756
+Financial Instruments Toolbox                         Version 25.1        (R2025a)      License 41042756
+Financial Toolbox                                     Version 25.1        (R2025a)      License 41042756
+Fixed-Point Designer                                  Version 25.1        (R2025a)      License 41042756
+Fuzzy Logic Toolbox                                   Version 25.1        (R2025a)      License 41042756
+GPU Coder                                             Version 25.1        (R2025a)      License 41042756
+Global Optimization Toolbox                           Version 25.1        (R2025a)      License 41042756
+HDL Coder                                             Version 25.1        (R2025a)      License 41042756
+HDL Verifier                                          Version 25.1        (R2025a)      License 41042756
+Image Acquisition Toolbox                             Version 25.1        (R2025a)      License 41042756
+Image Processing Toolbox                              Version 25.1        (R2025a)      License 41042756
+Industrial Communication Toolbox                      Version 25.1        (R2025a)      License 41042756
+Instrument Control Toolbox                            Version 25.1        (R2025a)      License 41042756
+LTE Toolbox                                           Version 25.1        (R2025a)      License 41042756
+Lidar Toolbox                                         Version 25.1        (R2025a)      License 41042756
+MATLAB Coder                                          Version 25.1        (R2025a)      License 41042756
+MATLAB Compiler                                       Version 25.1        (R2025a)      License 41042756
+MATLAB Compiler SDK                                   Version 25.1        (R2025a)      License 41042756
+MATLAB Report Generator                               Version 25.1        (R2025a)      License 41042756
+MATLAB Test                                           Version 25.1        (R2025a)      License 41042756
+Mapping Toolbox                                       Version 25.1        (R2025a)      License 41042756
+Medical Imaging Toolbox                               Version 25.1        (R2025a)      License 41042756
+Mixed-Signal Blockset                                 Version 25.1        (R2025a)      License 41042756
+Model Predictive Control Toolbox                      Version 25.1        (R2025a)      License 41042756
+Model-Based Calibration Toolbox                       Version 25.1        (R2025a)      License 41042756
+Motor Control Blockset                                Version 25.1        (R2025a)      License 41042756
+Navigation Toolbox                                    Version 25.1        (R2025a)      License 41042756
+Optimization Toolbox                                  Version 25.1        (R2025a)      License 41042756
+Parallel Computing Toolbox                            Version 25.1        (R2025a)      License 41042756
+Partial Differential Equation Toolbox                 Version 25.1        (R2025a)      License 41042756
+Phased Array System Toolbox                           Version 25.1        (R2025a)      License 41042756
+Powertrain Blockset                                   Version 25.1        (R2025a)      License 41042756
+Predictive Maintenance Toolbox                        Version 25.1        (R2025a)      License 41042756
+RF Blockset                                           Version 25.1        (R2025a)      License 41042756
+RF PCB Toolbox                                        Version 25.1        (R2025a)      License 41042756
+RF Toolbox                                            Version 25.1        (R2025a)      License 41042756
+ROS Toolbox                                           Version 25.1        (R2025a)      License 41042756
+Radar Toolbox                                         Version 25.1        (R2025a)      License 41042756
+Reinforcement Learning Toolbox                        Version 25.1        (R2025a)      License 41042756
+Requirements Toolbox                                  Version 25.1        (R2025a)      License 41042756
+Risk Management Toolbox                               Version 25.1        (R2025a)      License 41042756
+Robotics System Toolbox                               Version 25.1        (R2025a)      License 41042756
+Robust Control Toolbox                                Version 25.1        (R2025a)      License 41042756
+Satellite Communications Toolbox                      Version 25.1        (R2025a)      License 41042756
+Sensor Fusion and Tracking Toolbox                    Version 25.1        (R2025a)      License 41042756
+SerDes Toolbox                                        Version 25.1        (R2025a)      License 41042756
+Signal Integrity Toolbox                              Version 25.1        (R2025a)      License 41042756
+Signal Processing Toolbox                             Version 25.1        (R2025a)      License 41042756
+SimBiology                                            Version 25.1        (R2025a)      License 41042756
+SimEvents                                             Version 25.1        (R2025a)      License 41042756
+Simscape                                              Version 25.1        (R2025a)      License 41042756
+Simscape Battery                                      Version 25.1        (R2025a)      License 41042756
+Simscape Driveline                                    Version 25.1        (R2025a)      License 41042756
+Simscape Electrical                                   Version 25.1        (R2025a)      License 41042756
+Simscape Fluids                                       Version 25.1        (R2025a)      License 41042756
+Simscape Multibody                                    Version 25.1        (R2025a)      License 41042756
+Simulink 3D Animation                                 Version 25.1        (R2025a)      License 41042756
+Simulink Check                                        Version 25.1        (R2025a)      License 41042756
+Simulink Code Inspector                               Version 25.1        (R2025a)      License 41042756
+Simulink Coder                                        Version 25.1        (R2025a)      License 41042756
+Simulink Compiler                                     Version 25.1        (R2025a)      License 41042756
+Simulink Control Design                               Version 25.1        (R2025a)      License 41042756
+Simulink Coverage                                     Version 25.1        (R2025a)      License 41042756
+Simulink Design Optimization                          Version 25.1        (R2025a)      License 41042756
+Simulink Design Verifier                              Version 25.1        (R2025a)      License 41042756
+Simulink Desktop Real-Time                            Version 25.1        (R2025a)      License 41042756
+Simulink Fault Analyzer                               Version 25.1        (R2025a)      License 41042756
+Simulink PLC Coder                                    Version 25.1        (R2025a)      License 41042756
+Simulink Real-Time                                    Version 25.1        (R2025a)      License 41042756
+Simulink Report Generator                             Version 25.1        (R2025a)      License 41042756
+Simulink Test                                         Version 25.1        (R2025a)      License 41042756
+SoC Blockset                                          Version 25.1        (R2025a)      License 41042756
+Stateflow                                             Version 25.1        (R2025a)      License 41042756
+Statistics and Machine Learning Toolbox               Version 25.1        (R2025a)      License 41042756
+Symbolic Math Toolbox                                 Version 25.1        (R2025a)      License 41042756
+System Composer                                       Version 25.1        (R2025a)      License 41042756
+System Identification Toolbox                         Version 25.1        (R2025a)      License 41042756
+Text Analytics Toolbox                                Version 25.1        (R2025a)      License 41042756
+UAV Toolbox                                           Version 25.1        (R2025a)      License 41042756
+Vehicle Dynamics Blockset                             Version 25.1        (R2025a)      License 41042756
+Vehicle Network Toolbox                               Version 25.1        (R2025a)      License 41042756
+Vision HDL Toolbox                                    Version 25.1        (R2025a)      License 41042756
+WLAN Toolbox                                          Version 25.1        (R2025a)      License 41042756
+Wavelet Toolbox                                       Version 25.1        (R2025a)      License 41042756
+Wireless HDL Toolbox                                  Version 25.1        (R2025a)      License 41042756
+Wireless Testbench                                    Version 25.1        (R2025a)      License 41042756
